@@ -5,6 +5,16 @@
 # * $path          package path
 # * $dependencies  package dependencies
 
+
+# My abbreviations
+abbr -a ad         git add
+abbr -a cm         git commit
+abbr -a co         git checkout
+abbr -a st         git status
+abbr -a pl         git pull --rebase
+abbr -a pu         git push
+
+
 # git abbreviations
 abbr -a g          git
 abbr -a ga         git add
