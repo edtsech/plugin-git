@@ -11,7 +11,7 @@ abbr -a ad         git add
 abbr -a cm         git commit
 abbr -a co         git checkout
 abbr -a st         git status
-abbr -a pl         git pull --rebase
+abbr -a pl         git pull
 abbr -a pu         git push
 
 
